@@ -1,0 +1,13 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cSpell.words": [
+        "jjwt",
+        "jsonwebtoken",
+        "Jwts",
+        "mysecretkey",
+        "mysecretkeymysecretkeymysecretkey",
+        "projectlombok",
+        "springframework"
+    ]
+}
