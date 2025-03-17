@@ -58,7 +58,7 @@ Frontend:
 
 🚀 Backend Setup
 1. Clone the Repository:
-git clone https://github.com/your-repo/betting-app.git
+git clone https://github.com/moulyajanjarla/Betting_Game.git
 cd betting-app/backend
 2. Set Up Database:
 Create a PostgreSQL database named betting.
